@@ -22,7 +22,7 @@ body{
 
 .head-content{
     margin: 0 auto;
-    max-width: 1300px;
+    max-width: 1280px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -114,7 +114,7 @@ nav a:hover{
 }
 
 .section-container{
-    max-width: 1300px;
+    max-width: 1280px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -411,7 +411,7 @@ nav a:hover{
 }
 
 .testimonial-container{
-    max-width: 1300px;
+    max-width: 1280px;
     background-color: white;
     margin: 0 auto;
     padding: 2rem;
@@ -531,7 +531,7 @@ nav a:hover{
     }
 
     .newsletter-section{
-        max-width: 1300px;
+        max-width: 1280px;
         padding: 2rem;
         margin: 0 auto;
     }
